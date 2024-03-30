@@ -1,0 +1,4 @@
+/vendor
+/resources/
+/database.sqlite
+/composer.lock
